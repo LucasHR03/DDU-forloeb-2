@@ -1,2 +1,2 @@
 # DDU-forloeb-2
-Kode til projekt i ddu
+Kode til projekt i ddu.
